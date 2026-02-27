@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/alert_color" /> <!-- Background color -->
+    <corners android:radius="8dp" /> <!-- Optional: Rounded corners -->
+    <padding
+        android:left="16dp"
+        android:top="16dp"
+        android:right="16dp"
+        android:bottom="16dp" /> <!-- Optional: Padding inside the shape -->
+</shape>

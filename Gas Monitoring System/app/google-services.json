@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "568767493624",
+    "firebase_url": "https://gasdetection-4f88c-default-rtdb.firebaseio.com",
+    "project_id": "gasdetection-4f88c",
+    "storage_bucket": "gasdetection-4f88c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568767493624:android:c44d9f9c684073c2f2d20d",
+        "android_client_info": {
+          "package_name": "com.example.gasmonitoringsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0gaOBSoHecChDwA7ub39l0NnjBLrmcv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
